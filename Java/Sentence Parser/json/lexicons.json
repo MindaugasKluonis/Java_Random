@@ -1,0 +1,68 @@
+[
+	{"value":"the",
+	 "partOfSpeech":"DET",
+	 "root":"The",
+	 "number":"BOTH"
+	 },
+	 
+	 {"value":"a",
+	  "partOfSpeech":"DET",
+	  "root":"a",
+	  "number":"SINGULAR"},
+	  
+	 {"value":"man",
+	  "partOfSpeech":"NN",
+	  "root":"man",
+	  "number":"SINGULAR"},
+	  
+	 {"value":"men",
+	  "partOfSpeech":"NNS",
+	  "root":"man",
+	  "number":"PLURAL"},
+	  
+	 {"value":"woman",
+	  "partOfSpeech":"NN",
+	  "root":"woman",
+	  "number":"SINGULAR"},
+	  
+	 {"value":"women",
+	  "partOfSpeech":"NNS",
+	  "root":"woman",
+	  "number":"PLURAL"},
+	  
+	 {"value":"like",
+	  "partOfSpeech":"V",
+	  "root":"like",
+	  "number":"PLURAL"},
+	  
+	 {"value":"likes",
+	  "partOfSpeech":"VBZ",
+	  "root":"like",
+	  "number":"SINGULAR"},
+	  
+	 {"value":"bite",
+	  "partOfSpeech":"V",
+	  "root":"bite",
+	  "number":"PLURAL"},
+	  
+	 {"value":"bites",
+	  "partOfSpeech":"VBZ",
+	  "root":"bite",
+	  "number":"SINGULAR"},
+	  
+	 {"value":"green",
+	  "partOfSpeech":"ADJ",
+	  "root":"green",
+	  "number":"BOTH"},
+	  
+	 {"value":"dog",
+	  "partOfSpeech":"NN",
+	  "root":"dog",
+	  "number":"SINGULAR"},
+	  
+	  {"value":"cat",
+	  "partOfSpeech":"NN",
+	  "root":"cat",
+	  "number":"SINGULAR"}
+	  
+]

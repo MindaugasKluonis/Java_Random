@@ -1,0 +1,100 @@
+[
+	 
+	 {"id": "0",
+	  "name": "DET",
+	  "number": "SINGULAR",
+	  "transition":"2"
+	 },
+	 
+	 {"id": "1",
+	  "name": "DET",
+	  "number": "SINGULAR",
+	  "transition":"3"
+	 },
+	 
+	 {"id": "2",
+	  "name": "ADJ",
+	  "number": "BOTH",
+	  "transition":"3"
+	 },
+	 
+	 {"id": "3",
+	  "name": "NN",
+	  "number": "SINGULAR",
+	  "transition":"4"
+	 },
+	 
+	 {"id": "4",
+	  "name": "NP",
+	  "number": "SINGULAR",
+	  "transition":"-1"
+	 },
+	 
+	 {"id": "5",
+	  "name": "DET",
+	  "number": "BOTH",
+	  "transition":"6"
+	 },
+	 
+	 {"id": "6",
+	  "name": "NNS",
+	  "number": "PLURAL",
+	  "transition":"7"
+	 },
+	 
+	 {"id": "7",
+	  "name": "NP",
+	  "number": "PLURAL",
+	  "transition":"-1"
+	 },
+	 
+	 {"id": "8",
+	  "name": "DET",
+	  "number": "BOTH",
+	  "transition":"9"
+	 },
+	 
+	 {"id": "9",
+	  "name": "ADJ",
+	  "number": "BOTH",
+	  "transition":"6"
+	 },
+	 
+	 {"id": "10",
+	  "name": "VBZ",
+	  "number": "SINGULAR",
+	  "transition":"11"
+	 },
+	 
+	 {"id": "11",
+	  "name": "VP",
+	  "number": "SINGULAR",
+	  "transition":"-1"
+	 },
+	 
+	 {"id": "12",
+	  "name": "V",
+	  "number": "PLURAL",
+	  "transition":"13"
+	 },
+	 
+	 {"id": "13",
+	  "name": "VP",
+	  "number": "PLURAL",
+	  "transition":"-1"
+	 },
+	 
+	 {"id": "14",
+	  "name": "VP",
+	  "number": "SINGULAR",
+	  "transition":"15"
+	 },
+	 
+	 {"id": "15",
+	  "name": "NP",
+	  "number": "SINGULAR",
+	  "transition":"-2"
+	 }
+	 
+]
+
